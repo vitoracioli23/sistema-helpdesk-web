@@ -1,48 +1,75 @@
-# Sistemas-Chamados
-Sistema simples de Help Desk desenvolvido com HTML, CSS e JavaScript, com armazenamento de dados em LocalStorage e manipulação de DOM.
-# 🎫 Sistema de Chamados - Help Desk
+# 🎫 Sistema Help Desk Web
 
-Sistema simples de Help Desk desenvolvido com **HTML5**, **CSS3** e **JavaScript**, com armazenamento de dados em **LocalStorage**.
+## 📌 Visão Geral
 
-Projeto criado com foco em demonstrar conhecimentos fundamentais para vagas de **Suporte de TI Júnior** e **Desenvolvedor Front-End Júnior**.
+Aplicação web desenvolvida para simular um sistema de abertura e gerenciamento de chamados técnicos (Help Desk).
+
+O projeto foi criado com foco em organização de código, manipulação de DOM, persistência de dados no navegador e boas práticas de desenvolvimento Front-End.
 
 ---
 
-## 🚀 Sobre o Projeto
+## 🎯 Objetivo
 
-Este sistema permite:
+Simular um ambiente real de suporte técnico corporativo, permitindo:
 
-- 📌 Abertura de chamados técnicos
-- 🖥️ Classificação por tipo (Hardware, Software ou Rede)
-- 📝 Descrição detalhada do problema
-- ✅ Marcação de chamado como resolvido
-- 💾 Armazenamento automático no navegador (LocalStorage)
-
-O projeto simula um ambiente básico de atendimento técnico, comum em áreas de suporte corporativo.
+- Abertura de chamados
+- Classificação por categoria (Hardware, Software, Rede)
+- Registro de descrição do problema
+- Listagem dinâmica de chamados
+- Marcação de chamado como resolvido
+- Persistência de dados via LocalStorage
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** → Estrutura semântica da aplicação  
-- **CSS3** → Estilização e layout organizado  
-- **JavaScript (ES6)** → Manipulação de DOM, eventos e lógica do sistema  
-- **LocalStorage** → Persistência de dados no navegador  
+- HTML5 (estrutura semântica)
+- CSS3 (layout organizado e responsivo)
+- JavaScript ES6 (manipulação de DOM e lógica da aplicação)
+- LocalStorage (armazenamento persistente no navegador)
+- Git e GitHub (versionamento)
 
 ---
 
-## 💡 Funcionalidades Técnicas Demonstradas
+## 🧠 Conceitos Aplicados
 
-- Manipulação dinâmica de elementos na tela  
-- Uso de eventos (`addEventListener`)  
-- Armazenamento e recuperação de dados  
-- Organização de código em arquivos separados  
-- Estrutura clara e funcional de sistema simples  
+- Manipulação dinâmica de elementos
+- Uso de eventos com addEventListener
+- Estruturação modular de código
+- Persistência de dados no cliente
+- Separação de responsabilidades (HTML, CSS, JS)
+- Simulação de sistema corporativo
 
 ---
 
-## 🌍 Como visualizar o projeto
+## 📊 Funcionalidades
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/vitoracioli23/sistema-chamados-js.git
+✔ Cadastro de chamado  
+✔ Armazenamento automático  
+✔ Renderização dinâmica da lista  
+✔ Exclusão de chamado resolvido  
+✔ Interface simples e objetiva  
+
+---
+
+## 🚀 Possíveis Evoluções
+
+- Integração com banco de dados real (MySQL / Firebase)
+- Sistema de autenticação de usuários
+- Painel administrativo
+- Controle de status (Aberto, Em andamento, Resolvido)
+- Dashboard com métricas de atendimento
+
+---
+
+## 📈 Contexto Profissional
+
+Projeto desenvolvido como parte da minha transição para a área de Tecnologia da Informação, com foco em Desenvolvimento Front-End e Suporte Técnico.
+
+---
+
+## 👨‍💻 Autor
+
+Vitor Acioli  
+Tecnólogo em Análise e Desenvolvimento de Sistemas  
+Foco em Desenvolvimento Web e Suporte de TI
